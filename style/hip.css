@@ -6,6 +6,9 @@ div{
     padding: 10px;
     border: 2px solid rgb(201, 178, 178);
     box-shadow: 10px 10px 20px black;
+    border-radius: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    bottom: auto;
 }
 body{
     background-color: lightcyan;

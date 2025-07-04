@@ -1,9 +1,12 @@
 div{
     background-color: aquamarine;
-    margin: auto;
+    margin: 20px auto;
     width: 50%;
     text-align: center;
     padding: 10px;
     border: 2px solid rgb(201, 178, 178);
     box-shadow: 10px 10px 20px black;
+}
+body{
+    background-color: lightcyan;
 }
